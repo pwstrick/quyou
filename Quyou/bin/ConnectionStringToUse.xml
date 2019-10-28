@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<connectionStringToUse>
+  <!-- this value can be Local (pc), Production (server), or Test (test)-->
+  <environment>Production</environment>
+</connectionStringToUse>
